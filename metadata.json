@@ -1,0 +1,6 @@
+{
+  "name": "PrivateVault",
+  "description": "Secure digital vault for private notes and files with end-to-end privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
